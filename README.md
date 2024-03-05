@@ -7,7 +7,7 @@
 <p>Dans premier temps lire le rapport que je fournit au fortmat pdf.</p>
 <p>Dans le rapport pdf j'explique l'objectif du projet et les solutions toruv&eacute;es.</p>
 </li>
-<li>J'ai aussi mis le code du projet. <br />La fonction principal se trouve dans le fichier function_app.py. La fonction generate pdf se d&eacute;clanche suite &agrave; une requete POST envoy&eacute; &agrave; l'URL fournit par azure function<br />Ensuite le code est plusto lisible et les diff&eacute;rentes fonctionnalit&eacute;es de l'application sont identifiables.</li>
+<li>J'ai aussi mis le code du projet. <br />La fonction principal se trouve dans le fichier function_app.py. La fonction generate pdf se d&eacute;clanche suite &agrave; une requete POST envoy&eacute; &agrave; l'URL fournit par azure function<br />Ensuite le code est plustôt lisible et les diff&eacute;rentes fonctionnalit&eacute;es de l'application sont identifiables.</li>
 </ol>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
